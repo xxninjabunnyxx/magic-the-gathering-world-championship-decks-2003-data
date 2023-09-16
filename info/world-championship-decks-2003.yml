@@ -1,0 +1,15 @@
+---
+object: set
+id: 56f42feb-07f4-4fd6-a88b-33209de7de08
+code: wc03
+name: World Championship Decks 2003
+uri: https://api.scryfall.com/sets/56f42feb-07f4-4fd6-a88b-33209de7de08
+scryfall_uri: https://scryfall.com/sets/wc03
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awc03&unique=prints
+released_at: '2003-08-06'
+set_type: memorabilia
+card_count: 142
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
